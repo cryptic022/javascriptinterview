@@ -13,3 +13,5 @@ https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-pract
 http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
 
 http://esbueno.noahstokes.com/post/77292606977/self-executing-anonymous-functions-or-how-to-write
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#commandpatternjavascript
