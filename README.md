@@ -25,3 +25,5 @@ https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question
 http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript-all-the-code/
 
 https://medium.com/@yanganif/tackling-javascript-algorithms-66f1ac9770dc
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
