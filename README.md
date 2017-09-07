@@ -17,3 +17,5 @@ http://esbueno.noahstokes.com/post/77292606977/self-executing-anonymous-function
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#commandpatternjavascript
 
 https://medium.com/front-end-developers/the-command-pattern-c51292e22ea7
+
+https://ponyfoo.com/articles/es6#introduction
