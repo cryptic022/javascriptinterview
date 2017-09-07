@@ -15,3 +15,5 @@ http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
 http://esbueno.noahstokes.com/post/77292606977/self-executing-anonymous-functions-or-how-to-write
 
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#commandpatternjavascript
+
+https://medium.com/front-end-developers/the-command-pattern-c51292e22ea7
