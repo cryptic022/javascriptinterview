@@ -9,3 +9,5 @@ https://tylermcginnis.com/react-interview-questions/
 https://www.toptal.com/react/interview-questions
 
 https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+
+http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
