@@ -27,3 +27,5 @@ http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-ja
 https://medium.com/@yanganif/tackling-javascript-algorithms-66f1ac9770dc
 
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
