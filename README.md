@@ -33,3 +33,5 @@ https://medium.com/javascript-scene/10-interview-questions-every-javascript-deve
 https://www.toptal.com/javascript/interview-questions
 
 https://developers.google.com/web/fundamentals/getting-started/primers/async-functions
+
+https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/
