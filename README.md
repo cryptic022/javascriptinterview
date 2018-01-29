@@ -37,3 +37,5 @@ https://developers.google.com/web/fundamentals/getting-started/primers/async-fun
 https://aarontgrogg.com/blog/2015/07/20/the-difference-between-service-workers-web-workers-and-websockets/
 
 https://www.kirupa.com/react/component_lifecycle.htm
+
+https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/
