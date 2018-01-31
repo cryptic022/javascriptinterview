@@ -41,3 +41,5 @@ https://www.kirupa.com/react/component_lifecycle.htm
 https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/
 
 https://mxstbr.blog/2017/02/react-children-deepdive/#child-components
+
+https://robdodson.me/javascript-design-patterns-factory/
