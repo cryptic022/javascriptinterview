@@ -43,3 +43,5 @@ https://auth0.com/blog/ten-things-you-should-know-about-tokens-and-cookies/
 https://mxstbr.blog/2017/02/react-children-deepdive/#child-components
 
 https://robdodson.me/javascript-design-patterns-factory/
+
+https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/#modifyingthedom
