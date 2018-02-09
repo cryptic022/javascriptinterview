@@ -47,3 +47,5 @@ https://robdodson.me/javascript-design-patterns-factory/
 https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/#modifyingthedom
 
 https://javascript.info/modifying-document
+
+https://css-tricks.com/debouncing-throttling-explained-examples/
