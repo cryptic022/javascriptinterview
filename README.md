@@ -49,3 +49,5 @@ https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/#modifyi
 https://javascript.info/modifying-document
 
 https://css-tricks.com/debouncing-throttling-explained-examples/
+
+https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it/383699#383699
