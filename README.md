@@ -53,3 +53,5 @@ https://css-tricks.com/debouncing-throttling-explained-examples/
 https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it/383699#383699
 
 https://www.quora.com/What-is-Json-and-why-it-is-preferred-over-XML
+
+http://dsheiko.com/weblog/websockets-vs-sse-vs-long-polling
