@@ -57,3 +57,5 @@ https://www.quora.com/What-is-Json-and-why-it-is-preferred-over-XML
 http://dsheiko.com/weblog/websockets-vs-sse-vs-long-polling
 
 https://www.sitepoint.com/implementing-memoization-in-javascript/
+
+https://addyosmani.com/blog/faster-javascript-memoization/
