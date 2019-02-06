@@ -59,3 +59,5 @@ http://dsheiko.com/weblog/websockets-vs-sse-vs-long-polling
 https://www.sitepoint.com/implementing-memoization-in-javascript/
 
 https://addyosmani.com/blog/faster-javascript-memoization/
+
+https://medium.com/@codingfreak/500-data-structures-and-algorithms-practice-problems-35afe8a1e222
