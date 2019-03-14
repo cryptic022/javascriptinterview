@@ -4,6 +4,8 @@ http vs https : https://medium.com/@simon.sebjanic/http-vs-https-why-ssl-certifi
 
 How DNS: https://howdns.works/
 
+REST vs RPC : https://stackoverflow.com/questions/15056878/rest-vs-json-rpc
+
 https://ponyfoo.com/articles/es6
 
 http://www.interviewquestionspdf.com/2017/02/top-120-reactjs-real-time-interview.html
