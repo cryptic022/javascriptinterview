@@ -1,3 +1,9 @@
+### Networking Questions
+
+http vs https : https://medium.com/@simon.sebjanic/http-vs-https-why-ssl-certificate-65ea2cc0f631
+
+How DNS: https://howdns.works/
+
 https://ponyfoo.com/articles/es6
 
 http://www.interviewquestionspdf.com/2017/02/top-120-reactjs-real-time-interview.html
