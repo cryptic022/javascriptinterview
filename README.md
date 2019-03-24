@@ -8,8 +8,9 @@ REST vs RPC : https://stackoverflow.com/questions/15056878/rest-vs-json-rpc
 
 Http2 Benefits: https://developers.google.com/web/fundamentals/performance/http2/
                 https://hpbn.co/http2/
-
-
+                
+### Javascript Knowledge
+Basic and best : https://javascript.info/
 
 https://ponyfoo.com/articles/es6
 
